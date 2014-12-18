@@ -1,0 +1,18 @@
+[
+{
+  "modid": "CosmicForce",
+  "name": "Cosmic Force",
+  "description": "A mod all about Harnessing the power of the Space time Continuum Itself",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "logoFile": "",
+  "authorList": [ "Kalebtbacon, FatedSouls" ],
+  "credits":"",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": [
+]
+}
+]
